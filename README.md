@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anupamshraddha
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning python and Front end engineering (FEE)
 - 💞️ I’m looking to collaborate on google and microsoft
   
 
