@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @Anupamshraddha
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python and Web Developement 
+🎓 2nd year Computer Science student with AI ML specialization
+
+🛠️ Skilled in Python (Django, Flask), C++, JavaScript, HTML, CSS, Bootstrap
+
+☁️ Exploring Cloud Computing (Azure, Google Cloud)
+
+🤖 Interested in AI/ML integrations in web apps
+
+📚 Love solving DSA problems and building scalable solutions
+
+🎯 Goal: To become a software developer who builds impactful products
   
   
 
